@@ -16,26 +16,6 @@ minify:
   # minifyOutput: true
 
 languages:
-  de:
-    languageName: ":de:"
-    languageAltTitle: Deutsch
-    weight: 2
-    title: Olivia Trager
-    prefix: de
-    menu:
-      main:
-        - name: Archiv
-          url: archives
-          weight: 5
-        - name: Suche
-          url: search/
-          weight: 10
-        - name: Tags
-          url: tags/
-          weight: 10
-        - name: Kategorien
-          url: categories/
-          weight: 10
   en:
     languageName: ":gb:"
     languageAltTitle: English
@@ -52,8 +32,8 @@ languages:
         - name: Tags
           url: tags/
           weight: 10
-        - name: Categories
-          url: categories/
+        - name: About
+          url: about/
           weight: 10
 
   de:
@@ -61,22 +41,61 @@ languages:
     languageAltTitle: Deutsch
     weight: 2
     title: Olivia Trager
-    profileMode:
+    menu:
+      main:
+        - name: Artikel
+          url: archives
+          weight: 5
+        - name: Suche
+          url: search/
+          weight: 10
+        - name: Über mich
+          url: about/
+          weight: 7
+    
+    homeInfoParams:
+        Title: "Erhalten Sie Ihre Staatsbürgerschaft in Deutschland"
+        Content: >
+          Hallo, ich bin Olivia, eine Imigrationsanwältin aus Berlin. 
+          
+          Ich kann Ihnen helfen mit Ihrem 
+
+          -  **Visum** 
+
+          - **Arbeitserlaubnis**
+
+          - **Familienzusammenführung**
+
+          - **Staatsbürgerschaft** 
+
+          - **Aufenthaltserlaubnis**
+
+          - und mehr
+
+          
+
         enabled: true
-        title: Olivia Trager
-        imageUrl: "https://github.com/OliviaTrager/oliviatrager.github.io/blob/main/resources/_gen/images/profile.jpg?raw=true"
-        subtitle: "Ihre vertrauenswürdige Einwanderungsanwältin in Berlin"
-        buttons:
-            - name: Blog
-              url: posts
-            - name: Email
-              url: mailto:renekuhn@posteo.de
+        # title: Olivia Trager
+        # imageUrl: "https://github.com/OliviaTrager/oliviatrager.github.io/blob/main/resources/_gen/images/profile.jpg?raw=true"
+        # subtitle: "Ihre vertrauenswürdige Einwanderungsanwältin in Berlin"
+        
 
   fr:
         languageName: ":fr:"
         languageAltTitle: French
         weight: 2
         title: Olivia Trager
+        menu:
+          main:
+            - name: Articles
+              url: archives
+              weight: 5
+            - name: Recherche
+              url: search/
+              weight: 10
+            - name: À propos
+              url: about/
+              weight: 7
         profileMode:
             enabled: true
             title: Olivia Trager
@@ -94,7 +113,17 @@ languages:
     weight: 4
     languageName: ":israel:"
     languageAltTitle: Hebrew
-    
+    menu:
+      main:
+        - name: מאמרים
+          url: archives
+          weight: 5
+        - name: חיפוש
+          url: search/
+          weight: 10
+        - name: אודות 
+          url: about/
+          weight: 7
     profileMode:
         enabled: true
         title: Olivia Trager
@@ -110,19 +139,30 @@ languages:
               url: mailto:renekuhn@posteo.de
 
 
-    es:
-        languageName: ":es:"
-        languageAltTitle: Spanish
-        weight: 2
-        title: Olivia Trager
-        profileMode:
-            enabled: true
-            title: Olivia Trager
-            imageUrl: "https://github.com/OliviaTrager/oliviatrager.github.io/blob/main/resources/_gen/images/profile.jpg?raw=true"
-            subtitle: "Su abogado de inmigración de confianza en Berlín"
-            buttons:
-                - name: Email
-                  url: mailto:renekuhn@posteo.de
+  es:
+      languageName: ":es:"
+      languageAltTitle: Spanish
+      weight: 2
+      title: Olivia Trager
+      menu:
+        main:
+          - name: Artículos
+            url: archives
+            weight: 5
+          - name: Búsqueda
+            url: search/
+            weight: 10
+          - name: Acerca de
+            url: about/
+            weight: 7
+      profileMode:
+          enabled: true
+          title: Olivia Trager
+          imageUrl: "https://github.com/OliviaTrager/oliviatrager.github.io/blob/main/resources/_gen/images/profile.jpg?raw=true"
+          subtitle: "Su abogado de inmigración de confianza en Berlín"
+          buttons:
+              - name: Email
+                url: mailto:renekuhn@posteo.de
 
 outputs:
   home:
@@ -132,8 +172,8 @@ outputs:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  description: "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
-  author: Theme PaperMod
+  description: "Olivia Tragers Blog"
+  author: Olivia Trager
   # author: ["Me", "You"] # multiple authors
 
   defaultTheme: auto
@@ -183,13 +223,14 @@ params:
 
 
 
-  socialIcons:
-    - name: github
-      url: "https://github.com/adityatelange/hugo-PaperMod"
-    - name: KoFi
-      url: "https://ko-fi.com/adityatelange"
-    - name: RsS
-      url: "index.xml"
+
+  socialIcons: # optional
+          - name: "LinkedIn"
+            url: "https://de.linkedin.com/in/olivia-trager-2a7bbb193"
+          - name: "Email"
+            url: "mailto:renekuhn@posteo.de"
+          - name: "phone"
+            url: "https://wa.me/4915238970333"
 
   editPost:
     URL: "https://github.com/OliviaTrager/oliviatrager.github.io/tree/main/content"
