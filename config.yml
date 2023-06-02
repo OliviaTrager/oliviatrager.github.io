@@ -44,7 +44,13 @@ languages:
     profileMode:
         enabled: true
         title: Olivia Trager
-        imageUrl: resources/_gen/images/profile.jpg
+        imageUrl: "https://github.com/OliviaTrager/oliviatrager.github.io/blob/main/resources/_gen/images/profile.jpg?raw=true"
+        subtitle: "Ihre vertrauenswürdige Einwanderungsanwältin in Berlin"
+        buttons:
+            - name: Blog
+              url: posts
+            - name: Email
+              url: mailto:renekuhn@posteo.de
 
   fr:
         languageName: ":fr:"
