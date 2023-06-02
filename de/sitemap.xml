@@ -2,12 +2,45 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://oliviatrager.github.io/de/about/</loc>
+    <lastmod>2023-06-02T21:46:59+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://oliviatrager.github.io/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://oliviatrager.github.io/fr/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://oliviatrager.github.io/es/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="https://oliviatrager.github.io/he/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://oliviatrager.github.io/de/about/"
+                />
+  </url><url>
     <loc>https://oliviatrager.github.io/de/categories/</loc>
     <lastmod>2023-06-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
                 href="https://oliviatrager.github.io/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://oliviatrager.github.io/es/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -34,6 +67,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://oliviatrager.github.io/posts/german-citizenship/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://oliviatrager.github.io/es/posts/german-citizenship/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -66,6 +104,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="es"
+                href="https://oliviatrager.github.io/es/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="https://oliviatrager.github.io/fr/"
                 />
@@ -86,6 +129,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://oliviatrager.github.io/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://oliviatrager.github.io/es/posts/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -115,6 +163,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="es"
+                href="https://oliviatrager.github.io/es/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="https://oliviatrager.github.io/fr/tags/"
                 />
@@ -134,6 +187,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://oliviatrager.github.io/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://oliviatrager.github.io/es/series/"
                 />
     <xhtml:link
                 rel="alternate"
