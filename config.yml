@@ -105,6 +105,8 @@ languages:
             # imageHeight: 120
             subtitle: "Votre avocat en immigration de confiance à Berlin"
             buttons:
+                - name: Blog
+                  url: posts
                 - name: Email
                   url: mailto:renekuhn@posteo.de
   #hebrew:
@@ -161,6 +163,8 @@ languages:
           imageUrl: "https://github.com/OliviaTrager/oliviatrager.github.io/blob/main/resources/_gen/images/profile.jpg?raw=true"
           subtitle: "Su abogado de inmigración de confianza en Berlín"
           buttons:
+              - name: Blog
+                url: posts
               - name: Email
                 url: mailto:renekuhn@posteo.de
 
