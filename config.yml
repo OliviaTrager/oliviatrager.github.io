@@ -16,6 +16,26 @@ minify:
   # minifyOutput: true
 
 languages:
+  de:
+    languageName: ":de:"
+    languageAltTitle: Deutsch
+    weight: 2
+    title: Olivia Trager
+    prefix: de
+    menu:
+      main:
+        - name: Archiv
+          url: archives
+          weight: 5
+        - name: Suche
+          url: search/
+          weight: 10
+        - name: Tags
+          url: tags/
+          weight: 10
+        - name: Kategorien
+          url: categories/
+          weight: 10
   en:
     languageName: ":gb:"
     languageAltTitle: English
