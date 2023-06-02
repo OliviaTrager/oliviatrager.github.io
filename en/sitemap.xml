@@ -2,14 +2,76 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://oliviatrager.github.io/tags/emoji/</loc>
-    <lastmod>2022-01-16T00:00:00+00:00</lastmod>
+    <loc>https://oliviatrager.github.io/categories/</loc>
+    <lastmod>2023-06-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://oliviatrager.github.io/de/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://oliviatrager.github.io/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="https://oliviatrager.github.io/he/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://oliviatrager.github.io/categories/"
+                />
   </url><url>
-    <loc>https://oliviatrager.github.io/posts/hello-world/</loc>
-    <lastmod>2022-01-16T00:00:00+00:00</lastmod>
+    <loc>https://oliviatrager.github.io/categories/citizenship/</loc>
+    <lastmod>2023-06-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://oliviatrager.github.io/tags/german-citizenship/</loc>
+    <lastmod>2023-06-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://oliviatrager.github.io/categories/immigration/</loc>
+    <lastmod>2023-06-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://oliviatrager.github.io/fr/categories/immigration/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://oliviatrager.github.io/categories/immigration/"
+                />
+  </url><url>
+    <loc>https://oliviatrager.github.io/tags/naturalization/</loc>
+    <lastmod>2023-06-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://oliviatrager.github.io/posts/german-citizenship/</loc>
+    <lastmod>2023-06-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://oliviatrager.github.io/de/posts/german-citizenship/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://oliviatrager.github.io/fr/posts/german-citizenship/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="https://oliviatrager.github.io/he/posts/german-citizenship/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://oliviatrager.github.io/posts/german-citizenship/"
+                />
   </url><url>
     <loc>https://oliviatrager.github.io/</loc>
-    <lastmod>2022-01-16T00:00:00+00:00</lastmod>
+    <lastmod>2023-06-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -32,10 +94,30 @@
                 />
   </url><url>
     <loc>https://oliviatrager.github.io/posts/</loc>
-    <lastmod>2022-01-16T00:00:00+00:00</lastmod>
+    <lastmod>2023-06-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://oliviatrager.github.io/de/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://oliviatrager.github.io/fr/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="https://oliviatrager.github.io/he/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://oliviatrager.github.io/posts/"
+                />
   </url><url>
     <loc>https://oliviatrager.github.io/tags/</loc>
-    <lastmod>2022-01-16T00:00:00+00:00</lastmod>
+    <lastmod>2023-06-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -57,29 +139,13 @@
                 href="https://oliviatrager.github.io/tags/"
                 />
   </url><url>
-    <loc>https://oliviatrager.github.io/archives/</loc>
+    <loc>https://oliviatrager.github.io/tags/emoji/</loc>
+    <lastmod>2022-01-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://oliviatrager.github.io/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://oliviatrager.github.io/de/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://oliviatrager.github.io/fr/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="he"
-                href="https://oliviatrager.github.io/he/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://oliviatrager.github.io/categories/"
-                />
+    <loc>https://oliviatrager.github.io/posts/hello-world/</loc>
+    <lastmod>2022-01-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://oliviatrager.github.io/archives/</loc>
   </url><url>
     <loc>https://oliviatrager.github.io/search/</loc>
   </url><url>

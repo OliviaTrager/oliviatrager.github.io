@@ -3,6 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://oliviatrager.github.io/he/categories/</loc>
+    <lastmod>2023-06-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -25,6 +26,7 @@
                 />
   </url><url>
     <loc>https://oliviatrager.github.io/he/</loc>
+    <lastmod>2023-06-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -46,6 +48,87 @@
                 href="https://oliviatrager.github.io/he/"
                 />
   </url><url>
+    <loc>https://oliviatrager.github.io/he/posts/</loc>
+    <lastmod>2023-06-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://oliviatrager.github.io/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://oliviatrager.github.io/de/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://oliviatrager.github.io/fr/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="https://oliviatrager.github.io/he/posts/"
+                />
+  </url><url>
+    <loc>https://oliviatrager.github.io/he/tags/</loc>
+    <lastmod>2023-06-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://oliviatrager.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://oliviatrager.github.io/de/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://oliviatrager.github.io/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="https://oliviatrager.github.io/he/tags/"
+                />
+  </url><url>
+    <loc>https://oliviatrager.github.io/he/categories/%D7%90%D7%96%D7%A8%D7%97%D7%95%D7%AA/</loc>
+    <lastmod>2023-06-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://oliviatrager.github.io/he/tags/%D7%90%D7%96%D7%A8%D7%97%D7%95%D7%AA-%D7%92%D7%A8%D7%9E%D7%A0%D7%99%D7%AA/</loc>
+    <lastmod>2023-06-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://oliviatrager.github.io/he/categories/%D7%94%D7%92%D7%99%D7%A8%D7%94/</loc>
+    <lastmod>2023-06-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://oliviatrager.github.io/he/posts/german-citizenship/</loc>
+    <lastmod>2023-06-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://oliviatrager.github.io/posts/german-citizenship/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://oliviatrager.github.io/de/posts/german-citizenship/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://oliviatrager.github.io/fr/posts/german-citizenship/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="https://oliviatrager.github.io/he/posts/german-citizenship/"
+                />
+  </url><url>
+    <loc>https://oliviatrager.github.io/he/tags/%D7%94%D7%AA%D7%90%D7%96%D7%A8%D7%97%D7%95%D7%AA/</loc>
+    <lastmod>2023-06-02T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://oliviatrager.github.io/he/series/</loc>
     <xhtml:link
                 rel="alternate"
@@ -66,28 +149,6 @@
                 rel="alternate"
                 hreflang="he"
                 href="https://oliviatrager.github.io/he/series/"
-                />
-  </url><url>
-    <loc>https://oliviatrager.github.io/he/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://oliviatrager.github.io/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://oliviatrager.github.io/de/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://oliviatrager.github.io/fr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="he"
-                href="https://oliviatrager.github.io/he/tags/"
                 />
   </url>
 </urlset>
