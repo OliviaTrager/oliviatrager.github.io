@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://awesome-actions-template.github.io/hugo-papermod-template/tags/emoji/</loc>
+    <lastmod>2022-01-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://awesome-actions-template.github.io/hugo-papermod-template/posts/hello-world/</loc>
+    <lastmod>2022-01-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://awesome-actions-template.github.io/hugo-papermod-template/</loc>
+    <lastmod>2022-01-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://awesome-actions-template.github.io/hugo-papermod-template/posts/</loc>
+    <lastmod>2022-01-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://awesome-actions-template.github.io/hugo-papermod-template/tags/</loc>
+    <lastmod>2022-01-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://awesome-actions-template.github.io/hugo-papermod-template/archives/</loc>
+  </url><url>
+    <loc>https://awesome-actions-template.github.io/hugo-papermod-template/categories/</loc>
+  </url><url>
+    <loc>https://awesome-actions-template.github.io/hugo-papermod-template/search/</loc>
+  </url><url>
+    <loc>https://awesome-actions-template.github.io/hugo-papermod-template/series/</loc>
+  </url>
+</urlset>
