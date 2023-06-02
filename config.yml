@@ -34,6 +34,53 @@ languages:
           url: categories/
           weight: 10
 
+  de:
+    languageName: ":de:"
+    languageAltTitle: Deutsch
+    weight: 2
+    title: Olivia Trager
+    profileMode:
+        enabled: true
+        title: Olivia Trager
+        imageUrl: resources/_gen/images/profile.jpg
+
+  fr:
+        languageName: ":fr:"
+        languageAltTitle: French
+        weight: 2
+        title: Olivia Trager
+        profileMode:
+            enabled: true
+            title: Olivia Trager
+            imageUrl: "https://github.com/OliviaTrager/oliviatrager.github.io/blob/main/oliviatrager.github.io/resources/_gen/images/profile.jpg?raw=true"
+            imageTitle: ProfileMode image
+            # imageWidth: 120
+            # imageHeight: 120
+            subtitle: "Votre avocat en immigration de confiance à Berlin"
+            buttons:
+                - name: Email
+                  url: mailto:renekuhn@posteo.de
+  #hebrew:
+  he:
+    title: Olivia Trager
+    weight: 4
+    languageName: ":israel:"
+    languageAltTitle: Hebrew
+    
+    profileMode:
+        enabled: true
+        title: Olivia Trager
+        imageUrl: "https://github.com/OliviaTrager/oliviatrager.github.io/blob/main/oliviatrager.github.io/resources/_gen/images/profile.jpg?raw=true"
+        imageTitle: ProfileMode image
+        # imageWidth: 120
+        # imageHeight: 120
+        subtitle: "העורך דין להגירה האמין שלך בברלין"
+        buttons:
+            - name: Blog
+              url: posts
+            - name: Email
+              url: mailto:renekuhn@posteo.de
+
 outputs:
   home:
     - HTML
