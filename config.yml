@@ -17,7 +17,7 @@ minify:
 
 languages:
   en:
-    languageName: ":en:"
+    languageName: ":gb:"
     languageAltTitle: English
     title: Olivia Trager
     weight: 1
@@ -88,6 +88,21 @@ languages:
               url: posts
             - name: Email
               url: mailto:renekuhn@posteo.de
+
+
+    es:
+        languageName: ":es:"
+        languageAltTitle: Spanish
+        weight: 2
+        title: Olivia Trager
+        profileMode:
+            enabled: true
+            title: Olivia Trager
+            imageUrl: "https://github.com/OliviaTrager/oliviatrager.github.io/blob/main/resources/_gen/images/profile.jpg?raw=true"
+            subtitle: "Su abogado de inmigración de confianza en Berlín"
+            buttons:
+                - name: Email
+                  url: mailto:renekuhn@posteo.de
 
 outputs:
   home:
