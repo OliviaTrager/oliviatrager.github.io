@@ -17,7 +17,9 @@ minify:
 
 languages:
   en:
-    languageName: "English"
+    languageName: ":en:"
+    languageAltTitle: English
+    title: Olivia Trager
     weight: 1
     menu:
       main:
@@ -52,7 +54,7 @@ languages:
         profileMode:
             enabled: true
             title: Olivia Trager
-            imageUrl: "https://github.com/OliviaTrager/oliviatrager.github.io/blob/main/oliviatrager.github.io/resources/_gen/images/profile.jpg?raw=true"
+            imageUrl: "https://github.com/OliviaTrager/oliviatrager.github.io/blob/main/resources/_gen/images/profile.jpg?raw=true"
             imageTitle: ProfileMode image
             # imageWidth: 120
             # imageHeight: 120
@@ -70,7 +72,7 @@ languages:
     profileMode:
         enabled: true
         title: Olivia Trager
-        imageUrl: "https://github.com/OliviaTrager/oliviatrager.github.io/blob/main/oliviatrager.github.io/resources/_gen/images/profile.jpg?raw=true"
+        imageUrl: "https://github.com/OliviaTrager/oliviatrager.github.io/blob/main/resources/_gen/images/profile.jpg?raw=true"
         imageTitle: ProfileMode image
         # imageWidth: 120
         # imageHeight: 120
@@ -120,15 +122,25 @@ params:
         url: tags
 
   homeInfoParams:
-    Title: "PaperMod"
+    Title: "Olivia Trager"
     Content: >
-      Welcome to demo of hugo's theme PaperMod.
+      Hello, I am Olivia an imigration Layer from Berlin. 
+      
+      I can help you with your 
 
-      - **PaperMod** is a simple but fast and responsive theme with useful feature-set that enhances UX.
+      -  **visa** 
 
-      - Do give a 🌟 on Github !
+      - **work permit**
 
-      - PaperMod is based on theme [Paper](https://github.com/nanxiaobei/hugo-paper).
+      - **family reunion**
+
+      - **citizenship** 
+
+      - **residence permit**
+
+      - and more
+
+
 
   socialIcons:
     - name: github
@@ -139,7 +151,7 @@ params:
       url: "index.xml"
 
   editPost:
-    URL: "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"
+    URL: "https://github.com/OliviaTrager/oliviatrager.github.io/tree/main/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
