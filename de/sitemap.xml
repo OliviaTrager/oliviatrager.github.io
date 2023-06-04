@@ -2,7 +2,63 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://oliviatrager.github.io/de/rene/</loc>
+    <loc>https://oliviatrager.github.io/de/</loc>
+    <lastmod>2023-06-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://oliviatrager.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://oliviatrager.github.io/es/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://oliviatrager.github.io/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="https://oliviatrager.github.io/he/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://oliviatrager.github.io/de/"
+                />
+  </url><url>
+    <loc>https://oliviatrager.github.io/de/posts/</loc>
+    <lastmod>2023-06-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://oliviatrager.github.io/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://oliviatrager.github.io/es/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://oliviatrager.github.io/fr/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="https://oliviatrager.github.io/he/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://oliviatrager.github.io/de/posts/"
+                />
+  </url><url>
+    <loc>https://oliviatrager.github.io/de/posts/rene/</loc>
     <lastmod>2023-06-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://oliviatrager.github.io/de/about/</loc>
@@ -97,62 +153,6 @@
   </url><url>
     <loc>https://oliviatrager.github.io/de/categories/einwanderung/</loc>
     <lastmod>2023-06-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://oliviatrager.github.io/de/</loc>
-    <lastmod>2023-06-02T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://oliviatrager.github.io/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://oliviatrager.github.io/es/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://oliviatrager.github.io/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="he"
-                href="https://oliviatrager.github.io/he/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://oliviatrager.github.io/de/"
-                />
-  </url><url>
-    <loc>https://oliviatrager.github.io/de/posts/</loc>
-    <lastmod>2023-06-02T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://oliviatrager.github.io/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://oliviatrager.github.io/es/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://oliviatrager.github.io/fr/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="he"
-                href="https://oliviatrager.github.io/he/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://oliviatrager.github.io/de/posts/"
-                />
   </url><url>
     <loc>https://oliviatrager.github.io/de/categories/staatsb%C3%BCrgerschaft/</loc>
     <lastmod>2023-06-02T00:00:00+00:00</lastmod>
