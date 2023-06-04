@@ -12,7 +12,7 @@ Senior Advisor bei BDA | Bundesvereinigung der Deutschen Arbeitgeberverbände
 
 - **BDA | Bundesvereinigung der Deutschen Arbeitgeberverbände**
     - Referentin
-    - Nov. 2019 - Heute (3 Jahre 8 Monate)
+    - Nov. 2019 - Heute 
     - Berlin, Berlin
 
 - **Auswärtiges Amt (Federal Foreign Office) Germany - Deutsche Botschaft**
