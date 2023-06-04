@@ -11,7 +11,7 @@ Senior Advisor at BDA | Bundesvereinigung der Deutschen Arbeitgeberverbände (Fe
 ## Professional Experience
 
 - **BDA | Bundesvereinigung der Deutschen Arbeitgeberverbände**
-    - Speaker
+    - Senior Advisor
     - Nov 2019 - Present (3 years 8 months)
     - Berlin, Berlin
 
