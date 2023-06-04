@@ -15,7 +15,7 @@ Interessieren Sie sich für die deutsche Staatsbürgerschaft? In diesem Beitrag 
 
 Um für die deutsche Staatsbürgerschaft in Frage zu kommen, müssen Sie bestimmte Kriterien erfüllen, darunter:
 
-1. **Aufenthaltsdauer**: Sie sollten mindestens acht Jahre in Deutschland gelebt haben. Es gibt jedoch Ausnahmen für bestimmte Personen, wie Ehepartner von deutschen Staatsbürgern oder in Deutschland geborene Personen.
+1. **Aufenthaltsdauer**: Sie sollten mindestens acht Jahre in Deutschland gelebt haben. Es gibt jedoch Ausnahmen für bestimmte Personen, wie Ehepartner von deutschen Staatsbürgern oder in Deutschland geborene Personen. Die Aufenthaltsdauer soll angepasst werden, in Zukunft werden 5 Jahre genügen.
 2. **Sprachkenntnisse**: Sie müssen ausreichende Kenntnisse der deutschen Sprache nachweisen. Dies wird in der Regel durch einen Sprachtest wie den "Deutsch-Test für Zuwanderer" überprüft.
 3. **Gutes Führungszeugnis**: Antragsteller sollten ein sauberes Führungszeugnis haben und gutes Verhalten demonstrieren.
 
